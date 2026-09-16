@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circular Disc -->
+    <path
+        android:fillColor="#22283C"
+        android:pathData="M54,26 A28,28 0 1,1 53.99,26 Z" />
+
+    <!-- Play Arrow -->
+    <path
+        android:fillColor="#9F88FF"
+        android:pathData="M46,41 C46,40.1 47.0,39.5 47.8,40.0 L65.2,52.2 C65.9,52.7 65.9,53.7 65.2,54.2 L47.8,66.4 C47.0,66.9 46,66.3 46,65.4 Z" />
+
+    <!-- Electric Cyan Dot -->
+    <path
+        android:fillColor="#4CD7F6"
+        android:pathData="M69,36 A5,5 0 1,1 68.99,36 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Prompt2Video",
+  "description": "AI-powered video creation studio turning prompts into scripts, 4K visuals, voiceovers, and videos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
